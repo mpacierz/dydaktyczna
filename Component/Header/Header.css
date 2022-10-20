@@ -1,0 +1,42 @@
+header {
+    text-align: center;
+    min-height: 40px;
+    background-image: linear-gradient(to right, rgb(167, 10, 31) , rgb(168, 92, 5));
+    display: flex;
+    font-size: 20px;
+    color:rgb(197, 194, 194);
+}
+
+.main-header {
+    width: 70%;
+    padding: 10px;
+    text-align: left;
+}
+
+.right-header {
+    width: 30%;
+    text-align: right;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.right-header button{
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    cursor: pointer;
+    color:rgb(197, 194, 194);
+}
+
+.right-header button:hover{
+    color:white;
+}
+
+.link-header{
+    text-decoration: none;
+    color:rgb(197, 194, 194);
+}
+
+.link-header:hover{
+    color:white;
+}

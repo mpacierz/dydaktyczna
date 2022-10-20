@@ -1,0 +1,9 @@
+
+footer{
+    border-top: 1px solid rgb(196, 194, 194);
+    box-shadow: 0 0 5px 1px rgb(175, 174, 174);
+    height: 10vh;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+}

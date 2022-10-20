@@ -1,0 +1,12 @@
+.profil-page{
+    list-style-type: none;
+}
+
+.profil-page input{
+    min-width: 300px;
+    min-height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(241, 230, 215);
+
+}

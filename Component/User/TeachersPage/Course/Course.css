@@ -1,0 +1,22 @@
+.course-page h1{
+    font-size: 30px;
+    color: rgb(138, 24, 4);
+    margin: 10px 10px 0px 0px;
+}
+
+.course-page h2{
+    font-size: 23px;
+    font-weight: 100;
+    color: rgb(29, 29, 29);
+    margin: 0px ;
+}
+
+.contents{
+    background-color: rgb(233, 230, 229);
+    background-image: linear-gradient(to right, rgb(233, 230, 229) , rgb(255, 255, 255));
+    font-weight:100;
+}
+
+.tags{
+    color: rgb(3, 128, 201);
+}

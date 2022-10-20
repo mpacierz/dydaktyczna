@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(240, 238, 238);
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 1%;
+    font-size: 20px;
+}
+
+main li{
+    list-style-type: none;
+}
+
+.left-panel{
+    min-width: 15%;
+    height: 100%;
+    margin: 5px;
+}
+
+.left-panel h1{
+    margin: 0px;
+    color: rgb(97, 93, 93);
+}
+
+.left-panel h4{
+    margin: 10px 0px 10px 0px;
+    color: rgb(170, 99, 5);
+}
+
+.left-panel-nav {
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 5px;
+    box-shadow: 0 0 10px 1px rgb(175, 174, 174);
+    padding:10px 10px 20px 10px;
+    background-color: white;
+}
+
+.right-panel {
+    margin: 5px;
+    min-height: 80vh;
+    width: 80%;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 5px;
+    box-shadow: 0 0 10px 1px rgb(175, 174, 174);
+    padding:10px;
+    text-align: justify;
+    background-color: white;
+}
+
+
+.left-panel-calendar{
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 5px;
+    box-shadow: 0 0 10px 1px rgb(175, 174, 174);
+    padding:10px 10px 20px 10px;
+    margin-top:20px;
+    background-color: white;
+}
+
+
+.link-nav{
+    text-decoration: none;
+    color: black;
+}
+
+.link-nav:hover{
+    color:rgb(136, 98, 2);
+}
+

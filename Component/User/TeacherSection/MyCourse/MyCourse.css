@@ -1,0 +1,48 @@
+.my-course li{
+    list-style-type: none;
+}
+
+.button-format{
+    background-image: linear-gradient(to right, rgb(224, 102, 31) , rgb(221, 72, 26));
+    margin: 5px 5px 0px 0px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.button-format:hover{
+    background-image: linear-gradient(to right, rgb(241, 156, 28) , rgb(233, 143, 24));
+}
+
+
+.button-format-middle{
+    background-image: linear-gradient(to right, rgb(224, 102, 31) , rgb(221, 72, 26));
+    min-width: 200px;
+    min-height: 40px;
+    margin: 10px 5px 0px 0px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.button-format-middle:hover{
+    background-image: linear-gradient(to right, rgb(241, 156, 28) , rgb(233, 143, 24));
+}
+
+.center{
+    text-align: center;
+}
+
+.my-course h5{
+    margin:0px;
+    font-size: large;
+    font-weight: 500;
+}
+
+.course{
+    background-image: linear-gradient(to right, rgb(238, 229, 215) , rgb(255, 255, 255));
+}

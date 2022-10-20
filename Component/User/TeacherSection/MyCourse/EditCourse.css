@@ -1,0 +1,33 @@
+.edit-course li{
+    list-style-type: none;
+}
+
+.edit-course h1{
+    margin: 2px 0px 2px 0px;
+}
+
+.edit-course input{
+    border: 0;
+    width: 100%;
+    min-height: 20px;
+    background-color: rgb(247, 223, 203);
+    word-wrap: break-word;
+}
+
+.edit-course textarea{
+    border: 0;
+    width: 100%;
+    min-height: 400px;
+    background-color: rgb(247, 223, 203);
+    word-wrap: break-word;
+}
+
+.ck.ck-editor__main>.ck-editor__editable:not(.ck-focused){
+    background-color: rgb(247, 223, 203);
+    min-height: 400px;
+}
+
+.ck-rounded-corners .ck.ck-editor__main>.ck-editor__editable, .ck.ck-editor__main>.ck-editor__editable.ck-rounded-corners{
+    background-color: rgb(247, 223, 203);
+    min-height: 400px;
+}
