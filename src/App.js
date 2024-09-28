@@ -1,8 +1,8 @@
-import Layout from "./Component/Layout/Layout";
+import Layout from "../dydaktyczna/Component/Layout/Layout";
 import React, { useEffect, useState } from "react";
 import "./App.css";
 import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
-import LoginPage from "./Component/Login/LoginPage";
+import LoginPage from "../dydaktyczna/Component/Login/LoginPage";
 
 function App(props) {
 
